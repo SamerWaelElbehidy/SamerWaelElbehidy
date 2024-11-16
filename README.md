@@ -39,14 +39,11 @@
 <div align="center">
   <h1> 🌐 Let’s Connect! </h1>
 </div>
-<h3>
-<h2> 📬 Let’s Connect! </h2>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samer219wael/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SamerWael219)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/SamerWael219)  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/Samo_219)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:samer.wael.2003@gmail.com)
-</h3>
 <br>
 <div align="center">
   <h1> 📬  </h1>
