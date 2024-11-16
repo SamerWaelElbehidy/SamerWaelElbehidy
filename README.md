@@ -1,16 +1,27 @@
 <div align="center">
   <h1>👋 Hi, I’m Samer!</h1>
-<h3> Welcome to my GitHub! I’m a Machine Learning and Deep Learning Engineer with a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI. </h3>
+<h3> Undergraduate AI Student | ML & DL Engineer </h3>
 </div>
 <br>
 <div align="center">
   <h1> 🌟 About Me   </h1>
 </div>
+
+<div align="center">
+  <h1>👋 Hi, I’m Samer!</h1>
+  <p>
+    I’m an <strong>Artificial Intelligence Student</strong> at <strong>Damietta University</strong>, passionate about exploring the endless possibilities of <strong>science, computer science</strong>, and <strong>machine learning</strong>.
+  </p>
+</div>
+
 <h3>
+<h2> I am an Artificial Intelligence student at Damietta University, and I am really interested in gaining new information
+about science overall, computer science and ML especially, I am working on improving my knowledge about Web and Software Engineering. </h2><br>
 🧠 I specialize in deep learning, machine learning, and data-driven solutions.<br>
 🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.<br>
 💻 Experienced in designing, developing, and deploying scalable AI systems.<br>
 🚀 Always eager to explore new technologies and collaborate on impactful projects.<br>
+👨🏼‍💻 With a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI. <br> 
 </h3>
 <br>
 <div align="center">
