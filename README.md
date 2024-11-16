@@ -6,10 +6,12 @@
 <div align="center">
   <h1> 🌟 About Me   </h1>
 </div>
-## 🧠 I specialize in deep learning, machine learning, and data-driven solutions.
-## 🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.
-## 💻 Experienced in designing, developing, and deploying scalable AI systems.
-## 🚀 Always eager to explore new technologies and collaborate on impactful projects.
+<h3>
+🧠 I specialize in deep learning, machine learning, and data-driven solutions.
+🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.
+💻 Experienced in designing, developing, and deploying scalable AI systems.
+🚀 Always eager to explore new technologies and collaborate on impactful projects.
+</h3>
 
 # 🛠️ Tech Stack
 ## Programming Languages: Python, C#, C++
