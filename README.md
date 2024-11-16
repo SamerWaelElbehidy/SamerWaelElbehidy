@@ -19,7 +19,7 @@
 <div align="center">
   <h1>🛠️ Tech Stack</h1>
 </div>
-
+Programming Languages
 <p align="center">
   <!-- Programming Languages -->
   <a href="#">
