@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Samer!
+<h1>👋 Hi, I’m Samer!</h1> 
 ## Welcome to my GitHub! I’m a Machine Learning and Deep Learning Engineer with a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI.
 <br>
 
