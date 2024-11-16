@@ -7,13 +7,6 @@
   <h1> 🌟 About Me   </h1>
 </div>
 
-<div align="center">
-  <h1>👋 Hi, I’m Samer!</h1>
-  <p>
-    I’m an <strong>Artificial Intelligence Student</strong> at <strong>Damietta University</strong>, passionate about exploring the endless possibilities of <strong>science, computer science</strong>, and <strong>machine learning</strong>.
-  </p>
-</div>
-
 <h3>
 <h2>👨🏼‍💻 I am an Artificial Intelligence student at Damietta University, passionate in gaining exploring the endless possibilities of computer science and ML especially,</h2><br>
 🧠 I specialize in deep learning, machine learning, and data-driven solutions.<br>
