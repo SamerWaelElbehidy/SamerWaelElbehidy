@@ -4,7 +4,7 @@
 </div>
 <br>
 
-# 🌟 About Me
+  <h1> 🌟 About Me   </h1>
 ## 🧠 I specialize in deep learning, machine learning, and data-driven solutions.
 ## 🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.
 ## 💻 Experienced in designing, developing, and deploying scalable AI systems.
