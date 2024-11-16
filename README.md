@@ -19,7 +19,7 @@
 <div align="center">
   <h1>🛠️ Tech Stack</h1>
 </div>
-Programming Languages
+Programming Languages:
 <p align="center">
   <!-- Programming Languages -->
   <a href="#">
@@ -41,7 +41,7 @@ Programming Languages
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
 </p>
-
+Frameworks & Libraries:
 <p align="center">
   <!-- Frameworks & Libraries -->
   <a href="#">
@@ -60,7 +60,7 @@ Programming Languages
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   </a>
 </p>
-
+Tools:
 <p align="center">
   <!-- Tools -->
   <a href="#">
@@ -73,7 +73,7 @@ Programming Languages
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD400?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
   </a>
 </p>
-
+Databases:
 <p align="center">
   <!-- Databases -->
   <a href="#">
@@ -83,7 +83,7 @@ Programming Languages
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
 </p>
-
+Cloud Platforms:
 <p align="center">
   <!-- Cloud Platforms -->
   <a href="#">
