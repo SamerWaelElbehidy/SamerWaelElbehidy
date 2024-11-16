@@ -2,7 +2,7 @@
   <h1>👋 Hi, I’m Samer!</h1>
   <h3>Undergraduate AI Student | DEPI Student | ML & DL Engineer</h3>
 </div>
-
+<br>
 <div align="center">
   <h1>🌟 About Me</h1>
 </div>
@@ -15,10 +15,7 @@
 🚀 Always eager to explore new technologies and collaborate on impactful projects.<br>
 🤖 With a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI.<br> 
 </p>
-
-<div align="center">
-  <h1>🛠️ Tech Stack</h1>
-</div>
+<br>
 
 <div align="center">
   <h1>🛠️ Tech Stack</h1>
@@ -97,7 +94,7 @@
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   </a>
 </p>
-
+<br>
 
 <div align="center">
   <h1>🔭 Current Focus</h1>
@@ -108,6 +105,7 @@
 - Developing state-of-the-art neural architectures.<br>
 - Applying AI solutions to real-world challenges in healthcare, finance, and more.<br>
 </p>
+<br>
 
 <div align="center">
   <h1>🌐 Let’s Connect!</h1>
@@ -130,6 +128,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+<br>
 
 <div align="center">
   <h1>📈 GitHub Stats</h1>
