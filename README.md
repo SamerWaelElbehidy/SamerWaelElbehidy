@@ -15,13 +15,12 @@
 </div>
 
 <h3>
-<h2> I am an Artificial Intelligence student at Damietta University, and I am really interested in gaining new information
-about science overall, computer science and ML especially, I am working on improving my knowledge about Web and Software Engineering. </h2><br>
+<h2>👨🏼‍💻 I am an Artificial Intelligence student at Damietta University, passionate in gaining exploring the endless possibilities of computer science and ML especially,</h2><br>
 🧠 I specialize in deep learning, machine learning, and data-driven solutions.<br>
 🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.<br>
 💻 Experienced in designing, developing, and deploying scalable AI systems.<br>
 🚀 Always eager to explore new technologies and collaborate on impactful projects.<br>
-👨🏼‍💻 With a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI. <br> 
+🤖 With a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI. <br> 
 </h3>
 <br>
 <div align="center">
