@@ -3,8 +3,9 @@
 <h3> Welcome to my GitHub! I’m a Machine Learning and Deep Learning Engineer with a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI.</h3>
 </div>
 <br>
-
+<div align="center">
   <h1> 🌟 About Me   </h1>
+</div>
 ## 🧠 I specialize in deep learning, machine learning, and data-driven solutions.
 ## 🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.
 ## 💻 Experienced in designing, developing, and deploying scalable AI systems.
