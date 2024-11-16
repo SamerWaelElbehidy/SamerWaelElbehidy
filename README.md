@@ -12,7 +12,7 @@
 💻 Experienced in designing, developing, and deploying scalable AI systems.<br>
 🚀 Always eager to explore new technologies and collaborate on impactful projects.<br>
 </h3>
-
+<br>
 <div align="center">
   <h1> 🛠️ Tech Stack   </h1>
 </div>
@@ -23,7 +23,7 @@
 <b>- Databases:</b> SQL, MongoDB<br>
 <b>- Cloud:</b> AWS, Azure<br>
 </h3>
-
+<br>
 <div align="center">
   <h1> 🔭 Current Focus </h1>
 </div>
@@ -32,7 +32,7 @@
 - Developing state-of-the-art neural architectures.<br>
 - Applying AI solutions to real-world challenges in healthcare, finance, and more.<br>
 </h3>
-
+<br>
 <div align="center">
   <h1> 🏆 Highlights </h1>
 </div>
@@ -41,7 +41,7 @@
 💡 Designed and deployed a [mention impactful project, e.g., fraud detection system, image classifier, etc.].<br>
 🎤 Spoke at [events or conferences, if applicable].<br>
 </h3>
-
+<br>
 <div align="center">
   <h1> 📬 Let’s Connect! </h1>
 </div>
@@ -49,7 +49,7 @@
 📩 Email<br>
 💼 LinkedIn<br>
 </h3>
-
+<br>
 # 📈 GitHub Stats
 
 
