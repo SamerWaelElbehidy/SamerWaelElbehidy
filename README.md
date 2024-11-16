@@ -13,26 +13,42 @@
 🚀 Always eager to explore new technologies and collaborate on impactful projects.<br>
 </h3>
 
-# 🛠️ Tech Stack
-## Programming Languages: Python, C#, C++
-## Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, Keras, OpenCV
-## Tools: MLflow, Jupyter Notebook, Hugging Face
-## Databases: SQL, MongoDB
-## Cloud: AWS, Azure
+<div align="center">
+  <h1> 🛠️ Tech Stack   </h1>
+</div>
+<h3>
+- Programming Languages: Python, C#, C++
+- Frameworks & Libraries: TensorFlow, PyTorch, scikit-learn, Keras, OpenCV
+- Tools: MLflow, Jupyter Notebook, Hugging Face
+- Databases: SQL, MongoDB
+- Cloud: AWS, Azure
+</h3>
 
-# 🔭 Current Focus
-### - Exploring Generative AI and its applications.
-### - Developing state-of-the-art neural architectures.
-### - Applying AI solutions to real-world challenges in healthcare, finance, and more.
+<div align="center">
+  <h1> 🔭 Current Focus </h1>
+</div>
+<h3>
+- Exploring Generative AI and its applications.
+- Developing state-of-the-art neural architectures.
+- Applying AI solutions to real-world challenges in healthcare, finance, and more.
+</h3>
 
-# 🏆 Highlights
-## 🏅 Contributed to [Project Name/Research Paper if any].
-## 💡 Designed and deployed a [mention impactful project, e.g., fraud detection system, image classifier, etc.].
-## 🎤 Spoke at [events or conferences, if applicable].
+<div align="center">
+  <h1> 🏆 Highlights </h1>
+</div>
+<h3>
+🏅 Contributed to [Project Name/Research Paper if any].
+💡 Designed and deployed a [mention impactful project, e.g., fraud detection system, image classifier, etc.].
+🎤 Spoke at [events or conferences, if applicable].
+</h3>
 
-# 📬 Let’s Connect!
-## 📩 Email
-## 💼 LinkedIn
+<div align="center">
+  <h1> 📬 Let’s Connect! </h1>
+</div>
+<h3>
+📩 Email
+💼 LinkedIn
+</h3>
 
 # 📈 GitHub Stats
 
