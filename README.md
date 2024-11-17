@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I’m Samer!</h1>
+  <h1>👋 Hi, I’m Samer Wael!</h1>
   <h3>Undergraduate AI Student | DEPI Student | ML & DL Engineer</h3>
 </div>
 <br>
