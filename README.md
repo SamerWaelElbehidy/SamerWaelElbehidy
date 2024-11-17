@@ -21,9 +21,8 @@
   <h1>🛠️ Tech Stack</h1>
 </div>
 
-Programming Languages:
-<p align="center">
-  <!-- Programming Languages -->
+<p align="center" style="display: flex; align-items: center; justify-content: center;">
+  <span style="font-size: 18px; font-weight: bold; margin-right: 10px;">Programming Languages:</span>
   <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
@@ -37,6 +36,7 @@ Programming Languages:
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
 </p>
+
 
 Markup & Styling:
 <p align="center">
