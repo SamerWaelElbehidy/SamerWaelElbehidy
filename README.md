@@ -2,8 +2,6 @@
   <img src="https://github.com/SamerWaelElbehidy/SamerWaelElbehidy/raw/main/GitHub_Banner_Samer_Gradient.png" alt="Hello, I'm Samer Wael!" />
   <h3>Undergraduate AI Student | DEPI Student | ML & DL Engineer</h3>
 </div>
-
-<br>
 <div align="center">
   <h1>🌟 About Me</h1>
 </div>
