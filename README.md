@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="[https://camo.githubusercontent.com/ad075bc3d1c60328007d46e184e24deae6745dc180609d9256c1b9fa42d8fd59/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d48656c6c6f2c25323049276d253230457373616d2126666f6e74416c69676e3d343026666f6e74416c69676e593d343026636f6c6f723d303a3046304646302c3130303a32303730363826666f6e74436f6c6f723d666666666666](https://github.com/SamerWaelElbehidy/SamerWaelElbehidy/blob/main/GitHub_Banner_Samer_Gradient.png)" alt="Hello, I'm Samer Wael!" />
-  <h1>👋 Hi, I’m Samer Wael!</h1>
+  <img src="https://github.com/SamerWaelElbehidy/SamerWaelElbehidy/raw/main/GitHub_Banner_Samer_Gradient.png" alt="Hello, I'm Samer Wael!" />
   <h3>Undergraduate AI Student | DEPI Student | ML & DL Engineer</h3>
 </div>
 
