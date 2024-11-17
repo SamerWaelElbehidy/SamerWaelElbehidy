@@ -110,17 +110,11 @@ Cloud Platforms:
   <h1>🔭 Current Focus</h1>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <!-- Current Focus Text -->
-  <p style="margin-right: 20px;">
-    - Exploring Generative AI and its applications.<br>
-    - Developing state-of-the-art neural architectures.<br>
-    - Applying AI solutions to real-world challenges in healthcare, finance, and more.<br>
-  </p>
-
-  <!-- GIF -->
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" alt="Right Side GIF" style="max-width: 150px; height: auto;">
-</div>
+<p>
+- Exploring Generative AI and its applications.<br>
+- Developing state-of-the-art neural architectures.<br>
+- Applying AI solutions to real-world challenges in healthcare, finance, and more.<br>
+</p>
 <br>
 
 <div align="center">
