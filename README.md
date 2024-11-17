@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Samer Wael!</h1>
   <h3>Undergraduate AI Student | DEPI Student | ML & DL Engineer</h3>
-  <br>
-  <!-- Adding GIF -->
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" alt="Right Side GIF">
 </div>
 <br>
 <div align="center">
@@ -113,11 +110,17 @@ Cloud Platforms:
   <h1>🔭 Current Focus</h1>
 </div>
 
-<p>
-- Exploring Generative AI and its applications.<br>
-- Developing state-of-the-art neural architectures.<br>
-- Applying AI solutions to real-world challenges in healthcare, finance, and more.<br>
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <!-- Current Focus Text -->
+  <p style="margin-right: 20px;">
+    - Exploring Generative AI and its applications.<br>
+    - Developing state-of-the-art neural architectures.<br>
+    - Applying AI solutions to real-world challenges in healthcare, finance, and more.<br>
+  </p>
+
+  <!-- GIF -->
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" alt="Right Side GIF" style="max-width: 150px; height: auto;">
+</div>
 <br>
 
 <div align="center">
@@ -160,3 +163,4 @@ Cloud Platforms:
   <!-- GitHub Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Samo219&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </div>
+
