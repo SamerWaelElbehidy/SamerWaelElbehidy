@@ -1,6 +1,9 @@
 <div align="center">
   <h1>👋 Hi, I’m Samer Wael!</h1>
   <h3>Undergraduate AI Student | DEPI Student | ML & DL Engineer</h3>
+  <br>
+  <!-- Adding GIF -->
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" alt="Right Side GIF">
 </div>
 <br>
 <div align="center">
@@ -157,4 +160,3 @@ Cloud Platforms:
   <!-- GitHub Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Samo219&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </div>
-
