@@ -21,27 +21,22 @@
   <h1>🛠️ Tech Stack</h1>
 </div>
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <p style="display: flex; align-items: center;">
-    <span style="font-size: 18px; font-weight: bold; margin-right: 10px; text-align: left;">Programming Languages:</span>
-    <span>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      </a>
-    </span>
-  </p>
-</div>
-
-
+Programming Languages:
+<p align="center">
+  <!-- Programming Languages -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+</p>
 
 Markup & Styling:
 <p align="center">
@@ -150,6 +145,16 @@ Cloud Platforms:
 </div>
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Samo219&show_icons=true&theme=radical" alt="GitHub Stats">
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samo219&layout=compact&theme=radical" alt="Top Languages">
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Samo219&style=flat-square&color=blue" alt="Profile Views">
+  
+  <!-- GitHub Contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Samo219&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </div>
+
