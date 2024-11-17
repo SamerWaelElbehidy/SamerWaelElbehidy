@@ -21,8 +21,8 @@
   <h1>🛠️ Tech Stack</h1>
 </div>
 
+Programming Languages:
 <p align="center">
-  Programming Languages
   <!-- Programming Languages -->
   <a href="#">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -36,6 +36,11 @@
   <a href="#">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
+</p>
+
+Markup & Styling:
+<p align="center">
+  <!-- Markup & Styling -->
   <a href="#">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
@@ -44,6 +49,7 @@
   </a>
 </p>
 
+Frameworks & Libraries:
 <p align="center">
   <!-- Frameworks & Libraries -->
   <a href="#">
@@ -63,6 +69,7 @@
   </a>
 </p>
 
+Tools:
 <p align="center">
   <!-- Tools -->
   <a href="#">
@@ -76,6 +83,7 @@
   </a>
 </p>
 
+Databases:
 <p align="center">
   <!-- Databases -->
   <a href="#">
@@ -86,6 +94,7 @@
   </a>
 </p>
 
+Cloud Platforms:
 <p align="center">
   <!-- Cloud Platforms -->
   <a href="#">
