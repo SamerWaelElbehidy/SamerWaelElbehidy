@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I’m Samer!</h1>
   <h3>Undergraduate AI Student | DEPI Trainee | ML & DL Engineer</h3>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&duration=4900&pause=901&color=F4478E&center=true&width=435&lines=Machine+Learning+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Deep+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+Specialist+%F0%9F%91%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=4900&pause=901&color=F4478E&center=true&width=435&lines=Machine+Learning+Engineer+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB;Deep+Learning+Engineer+%F0%9F%A7%A0;Computer+Vision+Specialist+%F0%9F%91%80" alt="Typing SVG" /></a>
 </div>
 <br>
 <div align="center">
