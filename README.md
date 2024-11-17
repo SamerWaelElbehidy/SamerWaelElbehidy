@@ -24,34 +24,28 @@
 Programming Languages:
 <p align="center">
   <!-- Programming Languages -->
-  <a href="#" style="display: inline-flex; align-items: center; text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 10px;">
-    <span style="font-size: 16px; color: black;">Python</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="#" style="display: inline-flex; align-items: center; text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 10px;">
-    <span style="font-size: 16px; color: black;">C#</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   </a>
-  <a href="#" style="display: inline-flex; align-items: center; text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" style="margin-right: 10px;">
-    <span style="font-size: 16px; color: black;">C++</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   </a>
-  <a href="#" style="display: inline-flex; align-items: center; text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;">
-    <span style="font-size: 16px; color: black;">JavaScript</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
 </p>
 
 Markup & Styling:
 <p align="center">
   <!-- Markup & Styling -->
-  <a href="#" style="display: inline-flex; align-items: center; text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="margin-right: 10px;">
-    <span style="font-size: 16px; color: black;">HTML</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   </a>
-  <a href="#" style="display: inline-flex; align-items: center; text-decoration: none; margin: 5px;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="margin-right: 10px;">
-    <span style="font-size: 16px; color: black;">CSS</span>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   </a>
 </p>
 
