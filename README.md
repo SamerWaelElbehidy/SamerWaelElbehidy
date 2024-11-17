@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Samer!</h1>
-  <h3>Undergraduate AI Student | DEPI Trainee | ML & DL Engineer</h3>
+  <h3>Undergraduate AI Student | DEPI Trainee | ML & DL Engineer</h3> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&duration=3000&pause=800&color=2761F7&center=true&width=435&lines=Machine+Learning+Engineer+%F0%9F%A7%A0;Deep+Learning+Engineer+%F0%9F%A4%96;AI+Student+%26+Trainee+%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 <br>
