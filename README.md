@@ -14,7 +14,7 @@
 🔬 My work revolves around neural networks, computer vision, natural language processing, and AI research.<br>
 💻 Experienced in designing, developing, and deploying scalable AI systems.<br>
 🚀 Always eager to explore new technologies and collaborate on impactful projects.<br>
-🤖 With a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI.<br> 
+🤖 With a passion for building intelligent systems, solving complex problems, and pushing the boundaries of AI.<br>
 </p>
 <br>
 
@@ -158,4 +158,3 @@ Cloud Platforms:
   <!-- GitHub Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SamerWaelElbehidy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </div>
-
