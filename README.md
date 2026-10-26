@@ -148,13 +148,13 @@ Cloud Platforms:
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SamerWaelElbehidy&show_icons=true&theme=radical" alt="GitHub Stats">
-  
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamerWaelElbehidy&layout=compact&theme=radical" alt="Top Languages">
-  
+
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=SamerWaelElbehidy&style=flat-square&color=blue" alt="Profile Views">
-  
+
   <!-- GitHub Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SamerWaelElbehidy&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </div>
